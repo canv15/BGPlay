@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FBGPlay.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FBGPlay?ref=badge_shield)
+
 BGPlay.js (+ real-time version!)
 ==========================
 ***News: This repo contains the classic BGPlay + the real-time version. It has received many performance improvements affecting both the versions.***
@@ -32,3 +34,7 @@ See 'run_bgplay.html' for the classic BGPlay and the 'run_bgplay_realtime.html' 
 ***Follow BGPlay on Twitter: [@BGPlayJS](https://twitter.com/bgplayjs)***
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FBGPlay.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FBGPlay?ref=badge_large)
